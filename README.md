@@ -19,3 +19,6 @@ I like coding on Scratch and playing Undertale and Deltarune. My favorite food i
 <img src="MCS.png" width="1000"/>
 
 - [MERRY CHRISTMAS SCRATCH!!!](https://scratch.mit.edu/projects/350113988/)-MY FIRST SCRATCH PROJECT!!! A CHEESY ANIMATION!!!!
+
+
+ © Jacoob 2020
