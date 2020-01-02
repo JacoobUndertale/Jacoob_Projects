@@ -15,4 +15,7 @@ I like coding on Scratch and playing Undertale and Deltarune. My favorite food i
 <img src="BC.png" width="1000"/>
 
 - [BURGER CLICKER](https://scratch.mit.edu/projects/355849341/)-I made this cuz I was bored. it's a bad game. all you do is click a burger.
+
+<img src="MCS.png" width="1000"/>
+
 - [MERRY CHRISTMAS SCRATCH!!!](https://scratch.mit.edu/projects/350113988/)-MY FIRST SCRATCH PROJECT!!! A CHEESY ANIMATION!!!!
