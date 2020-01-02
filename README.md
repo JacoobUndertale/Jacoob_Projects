@@ -6,7 +6,7 @@ I like coding on Scratch and playing Undertale and Deltarune. My favorite food i
 
 <img src="JACOOB.png" width="400"/>
 
-# Games_and_movies
+# Projects
 
 <img src="DQC1.png" width="1000"/>
 
