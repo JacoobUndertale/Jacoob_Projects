@@ -22,7 +22,7 @@ I like coding on Scratch and playing Undertale and Deltarune. My favorite food i
 
 <img src="Devil Qest trailer.png" width="400"/>
  
- - [Devil Quest trailer](https://scratch.mit.edu/projects/356896913/)-Just a little trailer for the game DEVIL QUEST!!!!!
+ - [Devil Quest trailer](https://scratch.mit.edu/projects/356896913/)-Just a little trailer for the game DEVIL QUEST!!!!! Note: this is not just a trailer for chapter 1, it is a trailer for the whole game.
 
  
  © Jacoob 2020
