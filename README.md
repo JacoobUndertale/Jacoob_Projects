@@ -1,6 +1,6 @@
 ALL MY CRAZY GAMES AND MY CRAZY MOVIES AND DRAWINGS AND SONGS!!!!!!!!!!!!!
 
-# About_me
+# About me
 
 I like coding on Scratch and playing Undertale and Deltarune. My favorite food is BURGERS!!!!!!!!!!!!!!!
 
