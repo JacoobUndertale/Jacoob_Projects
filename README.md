@@ -20,5 +20,9 @@ I like coding on Scratch and playing Undertale and Deltarune. My favorite food i
 
 - [MERRY CHRISTMAS SCRATCH!!!](https://scratch.mit.edu/projects/350113988/)-MY FIRST SCRATCH PROJECT!!! A CHEESY ANIMATION!!!!
 
+<img src="Devil Qest trailer.png" width="1000"/>
+ 
+ - [Devil Quest trailer](https://scratch.mit.edu/projects/356896913/)-Just a little trailer for the game DEVIL QUEST!!!!!
 
+ 
  © Jacoob 2020
