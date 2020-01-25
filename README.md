@@ -48,6 +48,8 @@ Thanks to Toby Fox for UNDERTALE and for this pixel art METTATON EX
 
 # MUSIC
 
-<embed src="Night knight battle.wav" volume=50/>
- 
+<audio controls
+       src="Night knight battle.wav">
+</audio>
+
  © Jacoob 2020
