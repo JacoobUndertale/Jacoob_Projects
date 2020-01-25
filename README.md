@@ -28,7 +28,7 @@ I like coding on Scratch and playing Undertale and Deltarune. My favorite food i
 
 - [Pixel art creator](https://scratch.mit.edu/projects/361743998/)-I made this cuz I love pixel art and I like the Undertale simple battle creator on scratch where you can make something so easily, hit the remix button, and it's yours. SO GOOD!!!!!!
 
-<img src="Devil quest chapter 2" width="400"/>
+<img src="Devil quest chapter 2.png" width="400"/>
 
 -[Devil Quest Chapter 2: Underground Chaos](https://scratch.mit.edu/projects/361009899/)- THE SEQUEL IS OUT!!!!! FIGHT TWO BOSSES AND GET THE CHAPTER 3 CODE FOR FREE!!!!!!!!!!!!!!!
  
