@@ -63,5 +63,13 @@ This is the battle music for when you fight Night Knight in Devil Quest chapter 
 <audio controls src="Night knight battle.wav">
   Your browser doesn't support embedded audio files!
 </audio>
- 
+
+## Bomb dude theme 
+
+This is the song for when you fight Bomb dude in Devil Quest chapter 2. I wanted it to sound happy while a crazy person was throwing bombs at you, but I covered it with FX effects so you can't really hear it.
+
+<audio controls src="Bomb dude theme.wav">
+  Your browser doesn't support embedded audio files!
+</audio>
+
  © Jacoob 2020
