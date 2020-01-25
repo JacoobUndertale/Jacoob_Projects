@@ -38,8 +38,6 @@ I like coding on Scratch and playing Undertale and Deltarune. My favorite food i
 
 Link to [Snek project](http://snek.batimfnafjacoob.repl.co/)
 
-<iframe height="400px" width="100%" src="http://snek.batimfnafjacoob.repl.co/" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
-
 # DRAWINGS
 
 <img src="mettaton.jpg" width="400"/>
