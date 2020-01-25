@@ -48,6 +48,18 @@ Thanks to Toby Fox for UNDERTALE and for this pixel art METTATON EX
 
 # MUSIC
 
+## Night knight theme
+
+This is the theme for when you meet Night Knight in Devil Quest chapter 2. I wanted it it to sound a little bit like the song [Undyne by Toby Fox](https://tobyfox.bandcamp.com/track/undyne).
+
+<audio controls src="Night knight theme.wav">
+  Your browser doesn't support embedded audio files!
+</audio>
+
+## Night knight battle 
+
+This is the battle music for when you fight Night Knight in Devil Quest chapter 2. I wanted it to sound like a hype version of Night Knight theme
+
 <audio controls src="Night knight battle.wav">
   Your browser doesn't support embedded audio files!
 </audio>
