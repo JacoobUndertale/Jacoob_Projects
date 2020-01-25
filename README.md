@@ -32,6 +32,10 @@ I like coding on Scratch and playing Undertale and Deltarune. My favorite food i
 
 -[Devil Quest Chapter 2: Underground Chaos](https://scratch.mit.edu/projects/361009899/)- THE SEQUEL IS OUT!!!!! FIGHT TWO BOSSES AND GET THE CHAPTER 3 CODE FOR FREE!!!!!!!!!!!!!!!
 
+# Repl.it projects
+
+<iframe height="400px" width="100%" src="https://repl.it/@BATIMFNAFJacoob/snek?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+
 # DRAWINGS
 
 <img src="mettaton.jpg" width="400"/>
