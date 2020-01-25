@@ -56,6 +56,8 @@ This is the theme for when you meet Night Knight in Devil Quest chapter 2. I wan
   Your browser doesn't support embedded audio files!
 </audio>
 
+
+
 ## Night knight battle 
 
 This is the battle music for when you fight Night Knight in Devil Quest chapter 2. I wanted it to sound like a hype version of Night Knight theme
@@ -63,6 +65,8 @@ This is the battle music for when you fight Night Knight in Devil Quest chapter 
 <audio controls src="Night knight battle.wav">
   Your browser doesn't support embedded audio files!
 </audio>
+
+
 
 ## Bomb dude theme 
 
