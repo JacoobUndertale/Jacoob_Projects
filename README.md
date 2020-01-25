@@ -35,5 +35,7 @@ I like coding on Scratch and playing Undertale and Deltarune. My favorite food i
 # DRAWINGS
 
 <img src="mettaton.jpg" width="400"/>
+
+Thanks to Toby Fox for UNDERTALE and for this pixel art METTATON EX
  
  © Jacoob 2020
