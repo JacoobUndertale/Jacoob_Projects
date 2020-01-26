@@ -76,4 +76,15 @@ This is the song for when you fight Bomb dude in Devil Quest chapter 2. I wanted
 
 <div>&nbsp;</div>
 
+## Burger
+
+This is the song for when you meet Burger Dude in Devil Quest chapter 3. SURPRISE!!!!! You get to hear this song before chapter 3 even comes OUT!!!!!!!!!
+
+<audio controls src="Burger.wav">
+  Your browser doesn't support embedded audio files!
+</audio>
+
+<div>&nbsp;</div>
+
+
  © Jacoob 2020
