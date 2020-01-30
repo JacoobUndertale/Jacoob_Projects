@@ -86,5 +86,15 @@ This is the song for when you meet Burger Dude in Devil Quest chapter 3. SURPRIS
 
 <div>&nbsp;</div>
 
+## Monster night theme
+
+This is the song for the menu in the new game Monster night that I am making. It is not even RELEASED!!!!!!!!!!!!!!!
+
+<audio controls src="Monster night theme.wav">
+  Your browser doesn't support embedded audio files!
+</audio>
+
+<div>&nbsp;</div>
+
 
  © Jacoob 2020
