@@ -33,6 +33,7 @@ I like coding on Scratch and playing Undertale and Deltarune. My favorite food i
 -[Devil Quest Chapter 2: Underground Chaos](https://scratch.mit.edu/projects/361009899/)- THE SEQUEL IS OUT!!!!! FIGHT TWO BOSSES AND GET THE CHAPTER 3 CODE FOR FREE!!!!!!!!!!!!!!!
 
 <img src="3d snake slicer.png" width="400"/>
+
 -[3d snake slicer](https://scratch.mit.edu/projects/364406967/)- This is just something me and [Hellotoast](https://scratch.mit.edu/users/hellotoast/) made for fun. it is 3d and you can slice the snake and make it disappear... kind of.
 # Repl.it projects
 
