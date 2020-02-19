@@ -2,7 +2,7 @@ ALL MY CRAZY GAMES AND MY CRAZY MOVIES AND DRAWINGS AND SONGS!!!!!!!!!!!!!
 
 # About me
 
-I like coding on Scratch and playing Undertale and Deltarune. My favorite food is BURGERS!!!!!!!!!!!!!!! I do hip hop and I like creating and listening to music. P.S. I created all the pictures below.
+I like coding on Scratch and playing Undertale and Deltarune. My favorite food is BURGERS!!!!!!!!!!!!!!! I do hip hop and I like creating and listening to music. P.S. I created all the projects below.
 
 <img src="New profile pic.png" width="400"/>
 
