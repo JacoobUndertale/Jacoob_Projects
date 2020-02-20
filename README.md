@@ -35,6 +35,10 @@ I like coding on Scratch and playing Undertale and Deltarune. My favorite food i
 <img src="3d snake slicer.png" width="400"/>
 
 -[3d snake slicer](https://scratch.mit.edu/projects/364406967/)- This is just something me and [Hellotoast](https://scratch.mit.edu/users/hellotoast/) made for fun. it is 3d and you can slice the snake and make it disappear... kind of.
+
+<img src="BATIMFNAFJacoob.png" width="400"/>
+
+-[BATIMFNAFJacoob theme](https://scratch.mit.edu/projects/369526463/)- This is a picture that I drew with a song that I made. I was bored so I made it.
 # Repl.it projects
 
 ## Snek
