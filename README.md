@@ -79,15 +79,6 @@ This is the song for when you fight Bomb dude in Devil Quest chapter 2. I wanted
 
 <div>&nbsp;</div>
 
-## BATIMFNAFJacoob theme
-
-This is my theme song man.
-
-<audio controls src="Burger.wav">
-  Your browser doesn't support embedded audio files!
-</audio>
-
-<div>&nbsp;</div>
 
 
 
