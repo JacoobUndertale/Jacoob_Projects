@@ -16,7 +16,7 @@ I like coding on Scratch and playing Undertale and Deltarune. My favorite food i
 
 - [BURGER CLICKER](https://scratch.mit.edu/projects/355849341/)-I made this cuz I was bored. it's a bad game. all you do is click a burger.
 
-<img src="MCS.png" width="400"/>
+<img src="Devil Qest trailer.png" width="400"/>
 
   - [Devil Quest trailer](https://scratch.mit.edu/projects/356896913/)-Just a little trailer for the game DEVIL QUEST!!!!! Note: this is not just a trailer for chapter 1, it is a trailer for the whole game.
  
